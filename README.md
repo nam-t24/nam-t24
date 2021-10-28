@@ -28,8 +28,7 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-t24&show_icons=true&theme=dracula&count_private=true&hide=stars)
 
-<br/><br/>
-
+<br/>
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
