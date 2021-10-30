@@ -1,5 +1,5 @@
-### Howdy! I'm Nam 👋
-
+### Howdy! I'm Nam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<!-- 👋 -->
 I'm a student at the University of Texas at Dallas studying computer science. :computer:  
 <br/>
 Projects I'm currently working on are [Hackportal](https://github.com/acmutd/hackportal) and the [HackUTD site](https://github.com/acmutd/hackportal-hackutd) for the upcoming HackUTD iteration.  
