@@ -34,10 +34,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/acmutd/hackportal-hackutd/pull/17) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
-2. 🎉 Merged PR [#2](https://github.com/nartmobile/MindReaderGame/pull/2) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-3. 🗣 Commented on [#2](https://github.com/nartmobile/MindReaderGame/issues/2) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-4. 🗣 Commented on [#18](https://github.com/acmutd/hackportal/issues/18) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 💪 Opened PR [#1](https://github.com/nartmobile/MindReaderGame/pull/1) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+1. 💪 Opened PR [#47](https://github.com/acmutd/hackportal/pull/47) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+2. ❌ Closed PR [#18](https://github.com/acmutd/hackportal/pull/18) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+3. 🗣 Commented on [#18](https://github.com/acmutd/hackportal/issues/18) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+4. 🎉 Merged PR [#17](https://github.com/acmutd/hackportal-hackutd/pull/17) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
+5. 🎉 Merged PR [#2](https://github.com/nartmobile/MindReaderGame/pull/2) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
 <!--END_SECTION:activity-->
 
