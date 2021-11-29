@@ -34,10 +34,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/acmutd/hackportal-hackutd/pull/55) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
-2. 💪 Opened PR [#54](https://github.com/acmutd/hackportal-hackutd/pull/54) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
-3. 💪 Opened PR [#53](https://github.com/acmutd/hackportal-hackutd/pull/53) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
-4. 🎉 Merged PR [#52](https://github.com/acmutd/hackportal-hackutd/pull/52) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
-5. 💪 Opened PR [#52](https://github.com/acmutd/hackportal-hackutd/pull/52) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
+1. ❗️ Opened issue [#5](https://github.com/nartmobile/MindReaderGame/issues/5) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+2. ❗️ Opened issue [#4](https://github.com/nartmobile/MindReaderGame/issues/4) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+3. 💪 Opened PR [#3](https://github.com/nartmobile/MindReaderGame/pull/3) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+4. 💪 Opened PR [#55](https://github.com/acmutd/hackportal-hackutd/pull/55) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
+5. 💪 Opened PR [#54](https://github.com/acmutd/hackportal-hackutd/pull/54) in [acmutd/hackportal-hackutd](https://github.com/acmutd/hackportal-hackutd)
 <!--END_SECTION:activity-->
 
