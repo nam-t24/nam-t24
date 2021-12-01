@@ -28,7 +28,7 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 <br/><br/>
 
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-t24&show_icons=true&theme=dracula&count_private=true&hide=stars)
+[![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-t24&show_icons=true&theme=dracula&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
