@@ -34,10 +34,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/nartmobile/MindReaderGame/pull/11) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-2. 💪 Opened PR [#9](https://github.com/nartmobile/MindReaderGame/pull/9) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-3. 🎉 Merged PR [#8](https://github.com/nartmobile/MindReaderGame/pull/8) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-4. ❗️ Opened issue [#7](https://github.com/nartmobile/MindReaderGame/issues/7) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
-5. ❗️ Closed issue [#4](https://github.com/nartmobile/MindReaderGame/issues/4) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+1. ❗️ Closed issue [#10](https://github.com/nartmobile/MindReaderGame/issues/10) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+2. 🗣 Commented on [#10](https://github.com/nartmobile/MindReaderGame/issues/10) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+3. ❗️ Closed issue [#6](https://github.com/nartmobile/MindReaderGame/issues/6) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+4. 🗣 Commented on [#6](https://github.com/nartmobile/MindReaderGame/issues/6) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+5. 💪 Opened PR [#11](https://github.com/nartmobile/MindReaderGame/pull/11) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
 <!--END_SECTION:activity-->
 
