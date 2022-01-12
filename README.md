@@ -34,10 +34,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/acmutd/hackportal/pull/55) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-2. ❌ Closed PR [#47](https://github.com/acmutd/hackportal/pull/47) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-3. 🗣 Commented on [#47](https://github.com/acmutd/hackportal/issues/47) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-4. 🗣 Commented on [#51](https://github.com/acmutd/hackportal/issues/51) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. ❗️ Closed issue [#10](https://github.com/nartmobile/MindReaderGame/issues/10) in [nartmobile/MindReaderGame](https://github.com/nartmobile/MindReaderGame)
+1. 🗣 Commented on [#55](https://github.com/acmutd/hackportal/issues/55) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+2. 💪 Opened PR [#55](https://github.com/acmutd/hackportal/pull/55) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+3. ❌ Closed PR [#47](https://github.com/acmutd/hackportal/pull/47) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+4. 🗣 Commented on [#47](https://github.com/acmutd/hackportal/issues/47) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+5. 🗣 Commented on [#51](https://github.com/acmutd/hackportal/issues/51) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
