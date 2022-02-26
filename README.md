@@ -34,10 +34,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/acmutd/hackportal/pull/73) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-2. 💪 Opened PR [#71](https://github.com/acmutd/hackportal/pull/71) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-3. 💪 Opened PR [#70](https://github.com/acmutd/hackportal/pull/70) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-4. 🗣 Commented on [#68](https://github.com/acmutd/hackportal/issues/68) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 💪 Opened PR [#67](https://github.com/acmutd/hackportal/pull/67) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+1. 🗣 Commented on [#73](https://github.com/acmutd/hackportal/issues/73) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+2. 🗣 Commented on [#73](https://github.com/acmutd/hackportal/issues/73) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+3. 💪 Opened PR [#73](https://github.com/acmutd/hackportal/pull/73) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+4. 💪 Opened PR [#71](https://github.com/acmutd/hackportal/pull/71) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+5. 💪 Opened PR [#70](https://github.com/acmutd/hackportal/pull/70) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
