@@ -35,10 +35,10 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/WEHack-UTD2-0/hackportal/pull/2) in [WEHack-UTD2-0/hackportal](https://github.com/WEHack-UTD2-0/hackportal)
-2. 💪 Opened PR [#106](https://github.com/acmutd/hackportal/pull/106) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-3. 💪 Opened PR [#105](https://github.com/acmutd/hackportal/pull/105) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-4. 🗣 Commented on [#104](https://github.com/acmutd/hackportal/issues/104) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 🗣 Commented on [#89](https://github.com/acmutd/hackportal/issues/89) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+1. 🎉 Merged PR [#3](https://github.com/nam-t24/playground/pull/3) in [nam-t24/playground](https://github.com/nam-t24/playground)
+2. 🎉 Merged PR [#2](https://github.com/nam-t24/playground/pull/2) in [nam-t24/playground](https://github.com/nam-t24/playground)
+3. 🎉 Merged PR [#1](https://github.com/nam-t24/playground/pull/1) in [nam-t24/playground](https://github.com/nam-t24/playground)
+4. 💪 Opened PR [#2](https://github.com/WEHack-UTD2-0/hackportal/pull/2) in [WEHack-UTD2-0/hackportal](https://github.com/WEHack-UTD2-0/hackportal)
+5. 💪 Opened PR [#106](https://github.com/acmutd/hackportal/pull/106) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
