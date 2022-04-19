@@ -37,8 +37,8 @@ Feel free to checkout any of my personal projects in my repositories to learn a 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#114](https://github.com/acmutd/hackportal/issues/114) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 2. 🗣 Commented on [#114](https://github.com/acmutd/hackportal/issues/114) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-3. 🗣 Commented on [#108](https://github.com/acmutd/hackportal/issues/108) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-4. 💪 Opened PR [#108](https://github.com/acmutd/hackportal/pull/108) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 🎉 Merged PR [#3](https://github.com/nam-t24/playground/pull/3) in [nam-t24/playground](https://github.com/nam-t24/playground)
+3. 🗣 Commented on [#114](https://github.com/acmutd/hackportal/issues/114) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+4. 🗣 Commented on [#108](https://github.com/acmutd/hackportal/issues/108) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+5. 💪 Opened PR [#108](https://github.com/acmutd/hackportal/pull/108) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
