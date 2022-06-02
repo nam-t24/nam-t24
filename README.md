@@ -1,4 +1,4 @@
-### Howdy! I'm Nam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Howdy! I'm Nam 👋
 <!-- 👋 -->
 I'm a student at the University of Texas at Dallas studying computer science. :computer:  
 <br/>
