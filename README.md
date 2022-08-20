@@ -38,10 +38,10 @@ Feel free to checkout my [website](https://nam-t24.github.io/nt/) or any of my p
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/acmutd/hackutd-ix-site/pull/15) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
-2. 💪 Opened PR [#14](https://github.com/acmutd/hackutd-ix-site/pull/14) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
-3. 💪 Opened PR [#13](https://github.com/acmutd/hackutd-ix-site/pull/13) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
-4. ❌ Closed PR [#161](https://github.com/acmutd/hackportal/pull/161) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 💪 Opened PR [#161](https://github.com/acmutd/hackportal/pull/161) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+1. 💪 Opened PR [#16](https://github.com/acmutd/hackutd-ix-site/pull/16) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
+2. 💪 Opened PR [#15](https://github.com/acmutd/hackutd-ix-site/pull/15) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
+3. 💪 Opened PR [#14](https://github.com/acmutd/hackutd-ix-site/pull/14) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
+4. 💪 Opened PR [#13](https://github.com/acmutd/hackutd-ix-site/pull/13) in [acmutd/hackutd-ix-site](https://github.com/acmutd/hackutd-ix-site)
+5. ❌ Closed PR [#161](https://github.com/acmutd/hackportal/pull/161) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
