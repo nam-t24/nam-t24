@@ -39,9 +39,9 @@ Feel free to checkout my [website](https://namtruong.netlify.app) or any of my p
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#213](https://github.com/acmutd/hackportal/issues/213) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-2. 💪 Opened PR [#216](https://github.com/acmutd/hackportal/pull/216) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-3. 🗣 Commented on [#129](https://github.com/acmutd/hackportal/issues/129) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-4. 🗣 Commented on [#198](https://github.com/acmutd/hackportal/issues/198) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
-5. 💪 Opened PR [#198](https://github.com/acmutd/hackportal/pull/198) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+2. 🗣 Commented on [#213](https://github.com/acmutd/hackportal/issues/213) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+3. 💪 Opened PR [#216](https://github.com/acmutd/hackportal/pull/216) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+4. 🗣 Commented on [#129](https://github.com/acmutd/hackportal/issues/129) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
+5. 🗣 Commented on [#198](https://github.com/acmutd/hackportal/issues/198) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
