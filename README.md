@@ -2,7 +2,7 @@
 <!-- 👋 -->
 I'm a student at the University of Texas at Dallas studying computer science. :computer:  
 <br/>
-Projects I'm currently working on are [Hackportal](https://github.com/acmutd/hackportal) and the [HackUTD site](https://github.com/acmutd/hackutd-ix-site) for the upcoming HackUTD iteration.  
+Projects I'm currently working on are [Hackportal](https://github.com/acmutd/hackportal) and the [HackUTD site](https://github.com/acmutd/hackutd-x-site) for the upcoming HackUTD iteration.  
 Feel free to checkout my [website](https://namtruong.netlify.app) or any of my personal projects in my repositories to learn a bit more about me and my interests!
 
 <br/>
