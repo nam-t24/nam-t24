@@ -5,10 +5,7 @@ Feel free to check out my [website](https://namtruong.vercel.app) or any of my p
 
 <br/>
 
-
 [![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-t24&show_icons=true&theme=dracula&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
 
 ### :cowboy_hat_face: Recent Activity  
 <!--START_SECTION:activity-->
@@ -19,3 +16,6 @@ Feel free to check out my [website](https://namtruong.vercel.app) or any of my p
 5. 🗣 Commented on [#225](https://github.com/acmutd/hackportal/issues/225) in [acmutd/hackportal](https://github.com/acmutd/hackportal)
 <!--END_SECTION:activity-->
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=nam-t24&color=blue)
